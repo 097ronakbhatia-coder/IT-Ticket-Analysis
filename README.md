@@ -1,9 +1,23 @@
-\# IT Ticket Management Performance Analysis
+# IT Ticket Management Performance Analysis
 
+## 📑 Navigation
 
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Dataset](#dataset)
+- [Tools & Techniques](#tools--techniques)
+- [Key Metrics](#key-metrics)
+- [Key Findings](#key-findings)
+- [Dashboard](#dashboard)
+- [Strategic Recommendations](#strategic-recommendations)
+- [Project Files](#project-files)
+- [Analytical Approach](#analytical-approach)
+- [Conclusion](#conclusion)
 
-\## Project Overview
+---
 
+## Project Overview
 
 
 This project analyzes IT ticket management performance from 2016 to 2020 using Microsoft Excel.
