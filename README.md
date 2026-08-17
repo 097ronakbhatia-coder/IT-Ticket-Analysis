@@ -50,13 +50,9 @@ The central finding of the analysis is that process and tooling constraints appe
 
 ## 🖼️ Dashboard Preview
 
-<div align="center">
+![IT Ticket Analysis Dashboard](./screenshots/IT_Ticket_Dashboard.png)
 
-<img src="./screenshots/IT_Ticket_Dashboard.png" alt="IT Ticket Analysis Dashboard" width="100%">
-
-</div>
-
-*A single-page, filter-driven Excel dashboard covering ticket volume, category mix, severity, priority, resolution time, satisfaction, and agent workload — with slicers for Year, Request Category, Priority, Severity, and Issue Type.*
+*A single-page, filter-driven Excel dashboard covering ticket volume, category mix, severity, priority, resolution time, satisfaction, and agent workload.*
 
 
 ---
