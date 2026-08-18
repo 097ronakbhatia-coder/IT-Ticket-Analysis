@@ -15,7 +15,6 @@
 ## 📑 Table of Contents
 
 - [📌 Overview](#-overview)
-- [🖼️ Dashboard Preview](#-dashboard-preview)
 - [🔢 Key Metrics at a Glance](#-key-metrics-at-a-glance)
 - [📂 Repository Contents](#-repository-contents)
 - [🗃️ Dataset Description](#-dataset-description)
@@ -45,15 +44,6 @@ This project delivers a complete **IT Service Desk analytics engagement** — fr
 The analysis covers **97,498 IT support tickets** logged by **50 IT agents** over a **5-year period (2016–2020)**, and answers a structured set of objective and subjective business questions that a real IT operations / investment committee would ask before allocating budget toward **hiring, training, or software upgrades**.
 
 The central finding of the analysis is that process and tooling constraints appear to be more significant operational bottlenecks than overall staffing levels. Ticket volume increased by 123% between 2016 and 2020, while average resolution time remained broadly stable. This indicates an opportunity to improve ticket routing, automation, knowledge management, and workflow efficiency before relying primarily on additional headcount.
-
----
-
-## 🖼️ Dashboard Preview
-
-![IT Ticket Analysis Dashboard](/screenshot/IT_Ticket_Dashboard)
-
-*A single-page, filter-driven Excel dashboard covering ticket volume, category mix, severity, priority, resolution time, satisfaction, and agent workload.*
-
 
 ---
 
